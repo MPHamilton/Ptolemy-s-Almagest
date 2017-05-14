@@ -1,22 +1,22 @@
-Astronomical Event 1,Astronomical event 2,The Egyptian Interval,Relations,The Modern interval,units,Number of Units,Source of Error
-urn:cite2:chron:astron:1,urn:cite2:chron:astron:2,354,disagrees with,354,days,0,
-urn:cite2:chron:astron:2,urn:cite2:chron:astron:3,177,disagrees with,175,days,2,	
-urn:cite2:chron:astron:3,urn:cite2:chron:astron:4,36387,disagrees with,36029,days,358,nabonassar year not given by Pedersen. Inferred from cannon of kings
-urn:cite2:chron:astron:4,urn:cite2:chron:astron:5,35875,disagrees with,35879,days,-4,		
-urn:cite2:chron:astron:5,urn:cite2:chron:astron:6,7436,disagrees with,7797,days,-361,nabonassar year not given by Pedersen. Inferred from cannon of king
-urn:cite2:chron:astron:6,urn:cite2:chron:astron:7,3805,disagrees with,3809.5,days,-4.5,
-urn:cite2:chron:astron:7,urn:cite2:chron:astron:9,40030,disagrees with,39708.75,days,321.25,uncertain	
-urn:cite2:chron:astron:9,urn:cite2:chron:astron:10,178,disagrees with,176,days,2,
-urn:cite2:chron:astron:10,urn:cite2:chron:astron:11,172,disagrees with,177,days,-5,
-urn:cite2:chron:astron:11,urn:cite2:chron:astron:12,31784.5,disagrees with,44934.5,days,-13150,uncertain	
-urn:cite2:chron:astron:11,urn:cite2:chron:astron:30,65664.5,,,days,,
-urn:cite2:chron:astron:30,urn:cite2:chron:astron:31,173,disagrees with,178,days,-5,
-urn:cite2:chron:astron:31,urn:cite2:chron:astron:32,176,disagrees with,177,days,-1,
-urn:cite2:chron:astron:32,urn:cite2:chron:astron:33,9727.5,disagrees with,9362.25,days,365.25,uncertain	
-urn:cite2:chron:astron:33,urn:cite2:chron:astron:39,10013.5,disagrees with,10216.75,days,-203.25,(+0->365)month and day not given for event 39
-urn:cite2:chron:astron:39,urn:cite2:chron:astron:42,1582.5,disagrees with,1742,days,-159.5,(+0->365)month and day not given for event 39
-urn:cite2:chron:astron:42,urn:cite2:chron:astron:43,1582.5,disagrees with,2244.25,days,-661.75,(+0->365)month and day not given for event 43
-urn:cite2:chron:astron:43,urn:cite2:chron:astron:54,94062.5,disagrees with,94960.75,days,-898.25,(+0->365)month and day not given for event 43
-urn:cite2:chron:astron:54,urn:cite2:chron:astron:63,2948,disagrees with,2952.75,days,-4.75,
-urn:cite2:chron:astron:63,urn:cite2:chron:astron:69,532,disagrees with,562,days,-30,
-urn:cite2:chron:astron:69,urn:cite2:chron:astron:73,502,disagrees with,502.25,days,-0.25,
+Astronomical Event 1,Astronomical event 2,units,The Egyptian Interval,Relations,The Modern interval,units,Number of Units,Source of Error
+urn:cite2:chron:astron:1,urn:cite2:chron:astron:2,days,354,disagrees with,354,days,0,
+urn:cite2:chron:astron:2,urn:cite2:chron:astron:3,days,177,disagrees with,175,days,2,	
+urn:cite2:chron:astron:3,urn:cite2:chron:astron:4,days,36387,disagrees with,36029,days,358,nabonassar year not given by Pedersen. Inferred from cannon of kings
+urn:cite2:chron:astron:4,urn:cite2:chron:astron:5,days,35875,disagrees with,35879,days,-4,		
+urn:cite2:chron:astron:5,urn:cite2:chron:astron:6,days,7436,disagrees with,7797,days,-361,nabonassar year not given by Pedersen. Inferred from cannon of king
+urn:cite2:chron:astron:6,urn:cite2:chron:astron:7,days,3805,disagrees with,3809.5,days,-4.5,
+urn:cite2:chron:astron:7,urn:cite2:chron:astron:9,days,40030,disagrees with,39708.75,days,321.25,uncertain	
+urn:cite2:chron:astron:9,urn:cite2:chron:astron:10,days,178,disagrees with,176,days,2,
+urn:cite2:chron:astron:10,urn:cite2:chron:astron:11,days,172,disagrees with,177,days,-5,
+urn:cite2:chron:astron:11,urn:cite2:chron:astron:12,days,31784.5,disagrees with,44934.5,days,-13150,uncertain	
+urn:cite2:chron:astron:11,urn:cite2:chron:astron:30,days,65664.5,,,days,,
+urn:cite2:chron:astron:30,urn:cite2:chron:astron:31,days,173,disagrees with,178,days,-5,
+urn:cite2:chron:astron:31,urn:cite2:chron:astron:32,days,176,disagrees with,177,days,-1,
+urn:cite2:chron:astron:32,urn:cite2:chron:astron:33,days,9727.5,disagrees with,9362.25,days,365.25,uncertain	
+urn:cite2:chron:astron:33,urn:cite2:chron:astron:39,days,10013.5,disagrees with,10216.75,days,-203.25,(+0->365)month and day not given for event 39
+urn:cite2:chron:astron:39,urn:cite2:chron:astron:42,days,1582.5,disagrees with,1742,days,-159.5,(+0->365)month and day not given for event 39
+urn:cite2:chron:astron:42,urn:cite2:chron:astron:43,days,1582.5,disagrees with,2244.25,days,-661.75,(+0->365)month and day not given for event 43
+urn:cite2:chron:astron:43,urn:cite2:chron:astron:54,days,94062.5,disagrees with,94960.75,days,-898.25,(+0->365)month and day not given for event 43
+urn:cite2:chron:astron:54,urn:cite2:chron:astron:63,days,2948,disagrees with,2952.75,days,-4.75,
+urn:cite2:chron:astron:63,urn:cite2:chron:astron:69,days,532,disagrees with,562,days,-30,
+urn:cite2:chron:astron:69,urn:cite2:chron:astron:73,days,502,disagrees with,502.25,days,-0.25,
